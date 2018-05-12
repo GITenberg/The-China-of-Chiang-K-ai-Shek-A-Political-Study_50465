@@ -1,4 +1,8 @@
 _repo: The-China-of-Chiang-K-ai-Shek-A-Political-Study_50465
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50465-h/images/cover.jpg
 creator:
   author:
     agent_name: Linebarger, Paul Myron Anthony
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34034
     wikipedia: http://en.wikipedia.org/wiki/Cordwainer_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50465#The-China-of-Chiang-K-ai-Shek-A-Political-Study
 gutenberg_issued: '2015-12-08'
 gutenberg_type: Text
 identifiers:
